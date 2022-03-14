@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.ProgramsListView">
+   <children>
+      <ListView fx:id="programsListView" layoutX="38.0" layoutY="48.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="30.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+      <Button layoutX="274.0" layoutY="373.0" mnemonicParsing="false" onMouseClicked="#runProgram" text="Run program" />
+   </children>
+</AnchorPane>

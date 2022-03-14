@@ -1,0 +1,12 @@
+Id :4
+ExecutionStack:
+SymbolTable:
+filePath -> test.in
+variable -> 15
+OutputTable:
+15
+Heap:
+FileTable:
+
+=================================================================================
+
